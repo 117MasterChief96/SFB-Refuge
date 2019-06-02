@@ -1,0 +1,83 @@
+EBC-SignIn Change-log 
+	Version 1.12.788
+		Added:
+			1. Banner on settings view
+		Changed:
+			1. It so now names and descriptions for events can include forward slashes 
+			2. Label for events view button.  Was “Events to sign into” now is “Events List"
+			3. Title for events view.  Was "SignIn Events” now is “Events List”
+		Fixed:
+			1. Duplication problem when refreshing main event list
+			2. Sizing problem with credit for the “FoldingCell By Ramotion” label 
+		Removed:
+			1. The “Cannot Include Slashes” from the Name Textfield when adding an event, to be parallel with #1 in the “Changed” on this version
+		To-Do:
+			1. None
+
+	Version 1.11.670
+		Added:
+			1. Banner on home view
+		Changed:
+			1. Version number now syncs with developer set number
+		Fixed:
+			1. A bug with folding and unfolding were the button you click is not the one you actually clicked
+			2. A bug were credit for FoldingCell by Ramotion was not visible
+		Removed:
+			1.  Parts of code causing delay in loading
+		To-Do:
+			1. Make it so it is not required to exclude slashes from event names and descriptions
+
+	Version 1.11.513
+		Added:
+			Added New Animation for Seeing Description
+		Changed:
+			Animation Screen
+		Fixed:
+			Fixed bugs with 
+		Removed:
+		To-Do:
+
+	Version 1.07.419
+		Added:
+			A slider on the Student List view to show/hide admin numbers
+			The ability to see admin numbers on Student List view
+			Added “Maintained By MMA” at the bottom of the settings view
+
+		Changed:
+			Change Log Screen
+			About Screen
+			A slider on the Student List view to show/hide admin numbers
+			Changed Home view UI design for simplicity
+			Settings view redesigned
+			Updated Change Log
+		Fixed: 
+			Swiping to go back on some of the views
+			Newer versions no longer crash when seeing an event made by an older version
+			Sped up Student List button animation
+			Refined animation for showing a description
+		Removed:
+			App Announcements/Info Page view until future version due to bugs
+		To-Do:
+			Make it so it is not required to exclude slashes from event names and descriptions
+
+	Version: 1.03.279
+		Added:
+			Event Descriptions,
+			Student List,
+			App Announcements/Info Page (Currently not working and is a Work In Progress),
+			Messages Page (Currently not working and is a Work In Progress),
+			A way to manually add students on events,
+			Change-log screen
+		Changed:
+			Moved Auth Code screen to Sign-in and Sign-up Screens, 
+			Add Events Screen 
+			Settings Screen
+			Events Screen so now description will be a drop down option
+		Fixed:
+			Fixed a sign-in bug
+		Removed:
+			Auth Code screen
+			Removed “(WIP)” off of the settings button
+
+	Version: 1.00.000
+		Init version.
