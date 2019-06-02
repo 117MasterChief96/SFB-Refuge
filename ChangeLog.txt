@@ -4,8 +4,8 @@ EBC-SignIn Change-log
 			1. Banner on settings view
 		Changed:
 			1. It so now names and descriptions for events can include forward slashes 
-			2. Label for events view button.  Was “Events to sign into” now is “Events List"
-			3. Title for events view.  Was "SignIn Events” now is “Events List”
+			2. Label for events view button.  Was “Events to sign into” now is “Events List" or "Events"
+			3. Title for events view.  Was "SignIn Events” now is “Events List” or "Events"
 		Fixed:
 			1. Duplication problem when refreshing main event list
 			2. Sizing problem with credit for the “FoldingCell By Ramotion” label 
