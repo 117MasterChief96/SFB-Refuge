@@ -1,4 +1,4 @@
-EBC-SignIn Change-log 
+SFB Refuge Change-log 
 	Version 1.12.788
 		Added:
 			1. Banner on settings view
