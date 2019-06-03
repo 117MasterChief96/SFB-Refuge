@@ -10,6 +10,7 @@ SFB Refuge Change-log
 		Fixed:
 			1. Duplication problem when refreshing main event list
 			2. Sizing problem with credit for the “FoldingCell By Ramotion” label 
+			3. Fixes a bug where deleting a event would always delete the last event
 		Removed:
 			1. The “Cannot Include Slashes” from the Name Textfield when adding an event, to be parallel with #1 in the “Changed” on this version
 		To-Do:
