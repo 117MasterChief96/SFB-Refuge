@@ -1,4 +1,21 @@
 SFB Refuge Change-log 
+	Version 2.0.0
+		1.1 Added A completely new and redone User Interface with a modern look and feel.  
+		1.2 This new UI also heavily improves load times.
+		2. Probably added bugs			
+		3. *Added support for Sign In with Apple. *Please note there currently is no way to link accounts
+		4. Added macOS support for macOS Catalina 10.15 and later
+		5. Added iPad support for iPadOS 13.0 and later
+		6. Change new UI and UX to use SwiftUI to improve support and transition into new technology
+		7. Added Profile page
+		8. Summary: A new UI, support for macOS and iPadOS, added Sign In with Apple, and greatly improved user experience.
+
+		Known Issues:
+		1. When making an account, if the user enters the wrong Auth code the first time and does not go back to the sign in method screen and then goes back to the create account screen before reentering the correct auth code, the application may crash and have to be reset/reinstlled
+		2. Profile page fails to get the user name some of the time upon first try.  Requiring user to restart application some times or go into another view that checks the admin status.
+		3. Admin status sometimes does not return fast enough or correctly on "Home"/"Welcome" view
+		4. Main Home Buttons do not always click on the first try
+
 	Version 1.12.788
 		Added:
 			1. Banner on settings view
